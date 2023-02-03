@@ -1,0 +1,1 @@
+# next-bridge-react-query
